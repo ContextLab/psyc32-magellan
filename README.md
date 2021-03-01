@@ -1,10 +1,10 @@
 # MAGELLAN
 
-This is a template repository for **PSYC 132 Assignment 5: MAGELLAN**.  All of the assignment instruction are in the Jupyter (.ipynb) notebook.  After [accepting the assignment](), open (click) the `magellan.ipynb` notebook and then click on the blue "Open in Colab" button at the top.  A new tab or window should open in your browser, displaying the notebook in Google Colaboratory.
+This is a template repository for **PSYC 132 Assignment 5: MAGELLAN**.  All of the assignment instruction are in the Jupyter (.ipynb) notebook.  After [accepting the assignment](https://classroom.github.com/a/pQIgULsu), open (click) the `magellan.ipynb` notebook and then click on the blue "Open in Colab" button at the top.  A new tab or window should open in your browser, displaying the notebook in Google Colaboratory.
 
 # Setup and submission
 
-In order to submit your assignment you'll first need to save an editable copy of your notebook.  Click File > Save a copy in Drive and then save your copy of the notebook as `eliza.ipynb` (i.e., remove the "`Copy of`" text that gets automatically appended to the beginning of the filename).
+In order to submit your assignment you'll first need to save an editable copy of your notebook.  Click File > Save a copy in Drive and then save your copy of the notebook as `magellan.ipynb` (i.e., remove the "`Copy of`" text that gets automatically appended to the beginning of the filename).
 
 The second setup task is to ensure that Colaboratory has access to your private repositories on GitHub.  (By default, your assignment repositories will be accessible only to you and the course instructor.) To give Colaboratory access to your private repositories:
 - Navigate to [http://colab.research.google.com/github](http://colab.research.google.com/github)
