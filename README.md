@@ -1,6 +1,6 @@
 # MAGELLAN
 
-This is a template repository for **PSYC 132 Assignment 5: MAGELLAN**.  All of the assignment instruction are in the Jupyter (.ipynb) notebook.  After [accepting the assignment](https://classroom.github.com/a/pQIgULsu), open (click) the `magellan.ipynb` notebook and then click on the blue "Open in Colab" button at the top.  A new tab or window should open in your browser, displaying the notebook in Google Colaboratory.
+This is a template repository for **PSYC 132 Assignment 5: MAGELLAN**.  All of the assignment instruction are in the Jupyter (.ipynb) notebook.  After [accepting the assignment](https://classroom.github.com/a/CUKn-2lL), open (click) the `magellan.ipynb` notebook and then click on the blue "Open in Colab" button at the top.  A new tab or window should open in your browser, displaying the notebook in Google Colaboratory.
 
 # Setup and submission
 
